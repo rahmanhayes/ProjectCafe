@@ -1,0 +1,19 @@
+/* Move down content because we have a fixed navbar that is 50px tall */
+body {
+  padding-top: 2rem;
+}
+
+.slide {
+  background: url(img/DSC00887.jpg) no-repeat center center fixed;
+}
+
+.jumbotron {
+  height: 100%;
+  background-color: #333;
+  background: url(img/blackwhite_exterior888.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
