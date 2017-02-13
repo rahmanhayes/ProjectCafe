@@ -66,6 +66,7 @@
 
 .LBcursor {
   cursor: pointer
+  color: white;
 }
 
 /* Next & previous buttons */
@@ -77,7 +78,7 @@
   width: auto;
   padding: 16px;
   margin-top: -50px;
-  color: white;
+  color: #FFFFFF;
   font-weight: bold;
   font-size: 20px;
   transition: 0.6s ease;
